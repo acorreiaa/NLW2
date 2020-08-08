@@ -15,7 +15,7 @@
     margin-bottom: 1.4rem;
 }
 
-#search-teachers button {
+#search-teachers .button {
     width: 100%;
     height: 5.6rem;
     background: var(--color-secondary);
@@ -32,7 +32,7 @@
     margin-top: 3.2rem;
 }
 
-#search-teacher button:hover {
+#search-teacher .button:hover {
     background-color: var(--color-secondary);
 }
 
@@ -106,7 +106,7 @@
 }
 
 
-.teacher-item footer button {
+.teacher-item footer .button {
     width: 20rem;
     height: 5.6rem;
     background: var(--color-secondary);
@@ -125,7 +125,7 @@
     margin-left: 1.6rem;
 }
 
-.teacher-item footer button:hover {
+.teacher-item footer .button:hover {
     background: var(--color-secondary-dark)
 }
 
